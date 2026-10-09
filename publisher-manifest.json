@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5bc322e3a8bcfa5a70ed5f4e",
+  "owner": "mqhqfqqxf",
+  "repo": "page-cc6ef9419e141af30bb95700",
+  "title": "小火箭id",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cc6ef9419e141af30bb95700",
+      "a": "小火箭id",
+      "b": "",
+      "entity": "小火箭id",
+      "brand": "小火箭id",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2dbf1f51b957ec9f6d1c9c9c13d2b9d7ddd8796052d15fbf92a0743b522e7de1",
+      "content": {
+        "keyword1": "小火箭id",
+        "keyword2": "",
+        "primary_entity": "小火箭id",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭id 提供高效VPN网络加速服务，官方客户端下载即刻使用。支持多种套餐，解锁流媒体，加速游戏与办公，享受稳定高速网络。",
+          "AI_DESCRIPTION": "小火箭id 提供高效VPN网络加速服务，官方客户端下载即刻使用。支持多种套餐，解锁流媒体，加速游戏与办公，享受稳定高速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --beige: #f5f0e6;\n            --green: #2e8b57;\n            --dark: #1a3a2f;\n            --light-green: #4caf50;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            color: var(--dark);\n            background: var(--beige);\n            margin: 0;\n            padding: 0;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        header {\n            background: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 1rem;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--green);\n            text-decoration: none;\n        }\n        h1 {\n            font-size: 2.5rem;\n            color: var(--green);\n            text-align: center;\n            margin: 2rem 0;\n        }\n        .hero {\n            background: linear-gradient(to right, var(--green), #1e7a4d);\n            color: white;\n            padding: 4rem 0;\n            text-align: center;\n            position: relative;\n        }\n        .hero-content {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        .hero h1 {\n            font-size: 2.2rem;\n            margin-bottom: 1rem;\n        }\n        .hero p {\n            font-size: 1.1rem;\n            margin-bottom: 2rem;\n        }\n        button {\n            background: var(--light-green);\n            color: white;\n            border: none;\n            padding: 0.8rem 1.5rem;\n            font-size: 1rem;\n            border-radius: 4px;\n            cursor: pointer;\n            transition: background 0.3s;\n        }\n        button:hover {\n            background: #1e7a4d;\n        }\n        section {\n            padding: 3rem 0;\n        }\n        .intro {\n            background: white;\n        }\n        .intro-content {\n            text-align: center;\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        h2 {\n            font-size: 2rem;\n            color: var(--green);\n            margin-bottom: 1.5rem;\n            text-align: center;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 2rem;\n            margin-top: 2rem;\n        }\n        .plan {\n            background: white;\n            border-radius: 8px;\n            padding: 2rem;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n            transition: transform 0.3s;\n        }\n        .plan.featured {\n            border: 3px solid var(--green);\n            position: relative;\n        }\n        .plan.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: var(--green);\n            color: white;\n            padding: 4px 12px;\n            border-radius: 20px;\n            font-size: 0.9rem;\n        }\n        .plan h3 {\n            font-size: 1.5rem;\n            color: var(--green);\n            margin-bottom: 1rem;\n        }\n        .plan .price {\n            font-size: 2rem;\n            font-weight: bold;\n            color: var(--dark);\n            margin-bottom: 1rem;\n        }\n        .plan .annual {\n            color: #666;\n            font-size: 0.9rem;\n            margin-bottom: 1.5rem;\n        }\n        .plan ul {\n            list-style: none;\n            padding: 0;\n        }\n        .plan li {\n            padding: 0.8rem 0;\n            border-bottom: 1px solid #eee;\n            display: flex;\n            align-items: center;\n        }\n        .plan li:before {\n            content: \"✓\";\n            color: var(--green);\n            margin-right: 0.8rem;\n        }\n        .comparison {\n            background: white;\n            margin: 3rem 0;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            padding: 1rem;\n            text-align: left;\n            border-bottom: 1px solid #ddd;\n        }\n        th {\n            background: var(--green);\n            color: white;\n            font-weight: bold;\n        }\n        .faq {\n            background: white;\n            padding: 2rem;\n            border-radius: 8px;\n            margin: 2rem 0;\n        }\n        details {\n            margin-bottom: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            padding: 1rem;\n            background: var(--beige);\n            border-radius: 4px;\n        }\n        .footer {\n            background: #1a3a2f;\n            color: white;\n            padding: 3rem 0;\n            text-align: center;\n        }\n        .footer a {\n            color: var(--light-green);\n            text-decoration: none;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2rem;\n            }\n            .hero h1 {\n                font-size: 1.8rem;\n            }\n            .plans {\n                grid-template-columns: 1fr;\n            }\n            section {\n                padding: 2rem 0;\n            }\n        }\n    </style>\n\n\n    <main>\n        <header>\n            <div class=\"nav container\">\n                <a href=\"#\" class=\"logo\">小火箭id</a>\n                <nav>\n                    <a href=\"#plans\">套餐</a>\n                    <a href=\"#faq\">FAQ</a>\n                    <a href=\"#download\">下载</a>\n                </nav>\n            </div>\n        </header>\n        <section class=\"hero\">\n            <div class=\"container hero-content\">\n                <h1>小火箭id</h1>\n                <p>高效网络加速器<br>解锁全球内容</p>\n                <a href=\"#plans\">立即查看套餐</a>\n            </div>\n        </section>\n        <section class=\"intro\">\n            <div class=\"container intro-content\">\n                <h2>品牌简介</h2>\n                <p>小火箭id 是一款专业的VPN加速器，致力于为用户提供稳定快速的网络体验。无论您是个人用户还是企业团队，都能通过小火箭id 解锁更多内容，享受流畅的网络生活。</p>\n            </div>\n        </section>\n        <section>\n            <div class=\"container\">\n                <h2>使用场景</h2>\n                <p>小火箭id 适用于各种网络需求，包括：</p>\n                <ul>\n                    <li>解锁Netflix、Disney+、YouTube</li>\n                    <li>游戏加速与低延迟连接</li>\n                    <li>跨境办公与远程工作</li>\n                    <li>家庭多人设备共享</li>\n                    <li>旅行期间稳定上网</li>\n                </ul>\n            </div>\n        </section>\n        <section id=\"plans\">\n            <div class=\"container\">\n                <h2>套餐对比</h2>\n                \n                    \n                        \n                            功能\n                            基础版\n                            旗舰版\n                            团队版\n                        \n                    \n                    \n                        \n                            月付价格\n                            ¥15/月\n                            ¥35/月\n                            ¥85/月\n                        \n                        \n                            年付价格\n                            ¥150/年\n                            ¥350/年\n                            ¥850/年\n                        \n                        \n                            流量\n                            100GB\n                            300GB\n                            1000GB\n                        \n                        \n                            设备支持\n                            3台\n                            5台\n                            20台\n                        \n                        \n                            流媒体解锁\n                            基础\n                            全节点原生\n                            VIP专属\n                        \n                        \n                            特色\n                            普通节点池\n                            IPLC专线游戏加速\n                            企业定制路由 + 专属经理\n                        \n                    \n                \n            </div>\n        </section>\n        <section>\n            <div class=\"container\">\n                <h2>如何使用</h2>\n                <ol>\n                    <li>访问官网下载官方客户端</li>\n                    <li>注册账号并选择适合的套餐</li>\n                    <li>在客户端中输入订阅信息进行激活</li>\n                    <li>选择节点连接，即可加速上网</li>\n                    <li>享受稳定高速的网络体验</li>\n                </ol>\n            </div>\n        </section>\n        <section id=\"faq\" class=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>1. 小火箭id是什么？</summary>\n                <p>小火箭id 是一款专业的网络加速器，提供多种套餐帮助用户解锁流媒体和加速上网。</p>\n            </details>\n            <details>\n                <summary>2. 如何下载客户端？</summary>\n                <p>您可以直接访问官网，点击下载按钮获取官方客户端，安装后立即使用。</p>\n            </details>\n            <details>\n                <summary>3. 支持哪些设备？</summary>\n                <p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台设备。</p>\n            </details>\n            <details>\n                <summary>4. 不同套餐有什么区别？</summary>\n                <p>基础版适合个人用户，流量100GB；旗舰版提供更多流量和游戏加速；团队版适合企业，提供VIP节点和专属服务。</p>\n            </details>\n            <details>\n                <summary>5. 售后服务如何？</summary>\n                <p>我们提供7x24优先工单支持，团队版还有专属客户经理。</p>\n            </details>\n            <details>\n                <summary>6. 如何激活账号？</summary>\n                <p>下载客户端后，按照提示输入订阅链接即可激活并连接节点。</p>\n            </details>\n        </section>\n        <section id=\"download\">\n            <div class=\"container\">\n                <h2>立即下载</h2>\n                <p>点击下方按钮下载官方客户端</p>\n                <a href=\"#\">立即下载客户端</a>\n            </div>\n        </section>\n        <footer class=\"footer\">\n            <div class=\"container\">\n                <p>© 2024 小火箭id 所有权利保留</p>\n                <p>友情链接：<a href=\"#\">机场指南</a> | <a href=\"#\">VPN教程</a></p>\n                <p>官方下载：<a href=\"#\">https://www.xiaohuodongid.com/download</a></p>\n            </div>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "6b8180eaee4bb489812fa005da91bf91af4f7c072beda246c0598707e93bc61c",
+          "seo": {
+            "title": "小火箭id VPN加速器 | 官方客户端下载 | 机场订阅",
+            "keywords": "小火箭id, VPN加速器, 机场, 客户端下载, 网络加速, 流媒体解锁",
+            "description": "小火箭id 提供高效VPN网络加速服务，官方客户端下载即刻使用。支持多种套餐，解锁流媒体，加速游戏与办公，享受稳定高速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rxqejqu.cn",
+    "host": "p-1d8bf8d744.rxqejqu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b087f5992cbb0043780a85f35d502f385c74a2008d3a0fdff4255f4502f2d80c",
+    "sitemap.xml": "569534b78b89e0dd346888057f8d8e3ac0d9f07268f0ccdb8ce1b0896ff2d5bc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fb839233c995c085d933e7fe391d5fcb84afe30d83dca6bbdde1e61530f084c5",
+    "robots.txt": "c83d1826842fca27b3701ab780f56bc8bded493068fd0dea5b5b0c6ca6f47fbe",
+    "ad563c1dbe737663cfb066495a0f9bb9.txt": "8e11af01cec669ee9afefa977c6ab5b28b9ba135240cfe29775f0e7b94b469e4"
+  },
+  "revision": "7dfebb7a4e7e8002d9adfa19fd4b5d63ae0c23575be54371bfcb5d9105e4fd05"
+}
